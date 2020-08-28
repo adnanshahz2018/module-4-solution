@@ -1,0 +1,15 @@
+h1{
+    background-color: beige;
+    text-align: center;
+    align-items: center;
+    padding-top: 25px;
+    height: 70px;
+}
+
+h1:hover{
+    background-color: aqua;
+}
+
+h4{
+    text-align: center;
+}
